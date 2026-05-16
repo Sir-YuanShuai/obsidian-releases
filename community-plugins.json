@@ -26192,5 +26192,12 @@
     "author": "j4charlie",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Run Codex CLI as a local AI agent with note context, approvals, and reviewable file changes.",
     "repo": "j4charlie/codex-ai-agent"
+  },
+  {
+    "id": "obsidian-mindmap-pro",
+    "name": "MindMap Pro",
+    "author": "yuanshuai",
+    "description": "Render Markdown as interactive mind maps with HD PNG/SVG export. Powered by Markmap.",
+    "repo": "Sir-YuanShuai/obsidian-mindmap-pro"
   }
 ]
